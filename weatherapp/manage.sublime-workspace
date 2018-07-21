@@ -1,0 +1,907 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"m",
+				"mon"
+			],
+			[
+				"Imp",
+				"ImplExample"
+			],
+			[
+				"Run",
+				"Rundemo"
+			],
+			[
+				"S",
+				"StringBuilder"
+			],
+			[
+				"dp",
+				"DatagramPacket"
+			],
+			[
+				"dos",
+				"DataOutputStream"
+			],
+			[
+				"W",
+				"WSAMD"
+			],
+			[
+				"ne",
+				"next"
+			],
+			[
+				"exe",
+				"executeQuery"
+			],
+			[
+				"stu",
+				"StuAmd"
+			],
+			[
+				"ex",
+				"executeQuery"
+			],
+			[
+				"Stud",
+				"StuAmd"
+			],
+			[
+				"pa",
+				"parseInt"
+			],
+			[
+				"set",
+				"setEnable"
+			],
+			[
+				"ST",
+				"StuDlg"
+			],
+			[
+				"pre",
+				"prepareStatement"
+			],
+			[
+				"st",
+				"student"
+			],
+			[
+				"pr",
+				"prepareStatement"
+			],
+			[
+				"p",
+				"prepareStatement"
+			],
+			[
+				"prea",
+				"PrepareStatement"
+			],
+			[
+				"CLie",
+				"Client6"
+			],
+			[
+				"Da",
+				"DataInputStream"
+			],
+			[
+				"do",
+				"DataOutputStream"
+			],
+			[
+				"re",
+				"readUTF"
+			],
+			[
+				"dis",
+				"DataInputStream"
+			],
+			[
+				"Thr",
+				"ThrdComm"
+			],
+			[
+				"No",
+				"notifyAll"
+			],
+			[
+				"Con",
+				"consumer"
+			],
+			[
+				"ths",
+				"This"
+			],
+			[
+				"synch",
+				"synchronization"
+			],
+			[
+				"in",
+				"instatnce"
+			],
+			[
+				"Fil",
+				"FileOutputStream"
+			],
+			[
+				"F",
+				"FileInputStream"
+			],
+			[
+				"b",
+				"byte"
+			],
+			[
+				"d",
+				"dis"
+			],
+			[
+				"w",
+				"writeUTF"
+			],
+			[
+				"Cli",
+				"client"
+			],
+			[
+				"Ser",
+				"Server2"
+			],
+			[
+				"D",
+				"DataInputStream"
+			],
+			[
+				"th",
+				"throws"
+			],
+			[
+				"sy",
+				"sy\tsynchronized"
+			],
+			[
+				"se",
+				"setEnabled"
+			],
+			[
+				"get",
+				"getSource"
+			],
+			[
+				"Fo",
+				"FocusEvent"
+			],
+			[
+				"f",
+				"false"
+			],
+			[
+				"dr",
+				"drawObject"
+			],
+			[
+				"Arr",
+				"Arrays"
+			],
+			[
+				"Me",
+				"MenuApp1"
+			],
+			[
+				"Menu",
+				"MenuApp1"
+			],
+			[
+				"Men",
+				"MenuItem"
+			],
+			[
+				"ad",
+				"addActionListener"
+			],
+			[
+				"me",
+				"MenuApp1"
+			],
+			[
+				"fl",
+				"flg"
+			],
+			[
+				"my",
+				"MyShape"
+			],
+			[
+				"pan",
+				"PanelSouth"
+			],
+			[
+				"My",
+				"MyShape"
+			],
+			[
+				"Panel",
+				"PanelSouth"
+			],
+			[
+				"So",
+				"PanelSouth"
+			],
+			[
+				"Obj",
+				"ObjectOutputStream"
+			],
+			[
+				"FIleO",
+				"FileOutputStream"
+			],
+			[
+				"Lin",
+				"LinkedList"
+			],
+			[
+				"File",
+				"FileInputStream"
+			],
+			[
+				"Actio",
+				"ActionEvent"
+			],
+			[
+				"FIl",
+				"FileDialog"
+			],
+			[
+				"bn",
+				"bn"
+			],
+			[
+				"ge",
+				"getY"
+			],
+			[
+				"e",
+				"e"
+			],
+			[
+				"imag",
+				"imageio"
+			],
+			[
+				"Tex",
+				"TextField"
+			],
+			[
+				"cl",
+				"close"
+			],
+			[
+				"add",
+				"addWindowListener"
+			],
+			[
+				"St",
+				"StuFrm"
+			],
+			[
+				"tm",
+				"tnm"
+			],
+			[
+				"ac",
+				"ActionEvent"
+			],
+			[
+				"window",
+				"windowClosed"
+			],
+			[
+				"bd",
+				"bdisp"
+			],
+			[
+				"a",
+				"addActionListener"
+			],
+			[
+				"t",
+				"tno"
+			],
+			[
+				"Ac",
+				"ActionListener"
+			],
+			[
+				"s",
+				"setText"
+			],
+			[
+				"n",
+				"Name"
+			],
+			[
+				"Fr",
+				"FRM5"
+			],
+			[
+				"Window",
+				"WindowListener"
+			],
+			[
+				"Win",
+				"WindowEvent"
+			],
+			[
+				"De",
+				"windowDeiconified"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"sh",
+				"shindebhau"
+			],
+			[
+				"Loc",
+				"LocalInner"
+			],
+			[
+				"L",
+				"LocalInner"
+			],
+			[
+				"O",
+				"ObjectInputStream"
+			],
+			[
+				"FI",
+				"File"
+			],
+			[
+				"len",
+				"length"
+			],
+			[
+				"Sav",
+				"SavingAccounts"
+			],
+			[
+				"sa",
+				"SavingAccounts"
+			],
+			[
+				"Cu",
+				"CurrentAccounts"
+			],
+			[
+				"Sa",
+				"SavingAccounts"
+			],
+			[
+				"Che",
+				"Cheque_book_number"
+			],
+			[
+				"wi",
+				"withdrawal"
+			],
+			[
+				"E",
+				"Enter"
+			],
+			[
+				"br",
+				"bprice"
+			],
+			[
+				"B",
+				"Book"
+			],
+			[
+				"C",
+				"Cheque_book_number"
+			],
+			[
+				"nex",
+				"nextInt"
+			],
+			[
+				"acc",
+				"account_type"
+			],
+			[
+				"ca",
+				"catch"
+			],
+			[
+				"sho",
+				"showMessageDialog"
+			],
+			[
+				"show",
+				"showMessageDialog"
+			],
+			[
+				"opt",
+				"options"
+			],
+			[
+				"tot",
+				"toString"
+			],
+			[
+				"de",
+				"delRec"
+			],
+			[
+				"tr",
+				"true"
+			],
+			[
+				"Acc",
+				"AccList"
+			],
+			[
+				"Emp",
+				"Emplist"
+			],
+			[
+				"Ex",
+				"Exception"
+			],
+			[
+				"Empl",
+				"Employee"
+			],
+			[
+				"i",
+				"ID"
+			],
+			[
+				"to",
+				"toString"
+			],
+			[
+				"calc",
+				"calcTot"
+			],
+			[
+				"c",
+				"compareTo"
+			],
+			[
+				"compa",
+				"Comparator"
+			],
+			[
+				"compare",
+				"compareTo"
+			],
+			[
+				"v",
+				"void"
+			],
+			[
+				"new",
+				"NewBook1"
+			],
+			[
+				"Bn",
+				"bnm"
+			],
+			[
+				"Clss",
+				"class1"
+			],
+			[
+				"shoi",
+				"showMessageDialog"
+			],
+			[
+				"sta",
+				"stackToString"
+			],
+			[
+				"IN",
+				"InputMatrix"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Sourabh P/Desktop/fektikde.cpp",
+		"/C/Users/Sourabh P/Desktop/AJJU.cpp",
+		"/C/Users/Sourabh P/Downloads/Calcclient.java",
+		"/C/Users/Sourabh P/Downloads/Calcserver.java",
+		"/C/Users/Sourabh P/Downloads/Calcy.java",
+		"/C/Users/Sourabh P/Downloads/Calcimpl.java",
+		"/D/Java2/MUl.java",
+		"/D/Java2/Jdbc.java",
+		"/C/Users/Sourabh P/Downloads/Socket_RMI (1).rar",
+		"/D/Java2/yieldDemo.java",
+		"/D/Java2/Rundemo.java",
+		"/C/Users/Sourabh P/Downloads/DeleteRow.java",
+		"/C/Users/Sourabh P/Downloads/InsertCourse2.java",
+		"/C/Users/Sourabh P/Downloads/InsertCourse1.java",
+		"/C/Users/Sourabh P/Desktop/CN ASSIGNMENTS/Cl.java",
+		"/C/Users/Sourabh P/Desktop/CN ASSIGNMENTS/Ser.java",
+		"/D/Java2/Client2.java",
+		"/D/Java2/Server2.java",
+		"/D/Java2/Client1_1.java",
+		"/D/Java2/Server1_1.java",
+		"/C/Users/Sourabh P/Desktop/CERTIFICATIONS/RMI/Hello.java",
+		"/C/Users/Sourabh P/Desktop/CERTIFICATIONS/RMI/ImpHello.java",
+		"/C/Users/Sourabh P/Desktop/CERTIFICATIONS/RMI/RClient.java",
+		"/C/Users/Sourabh P/Desktop/CERTIFICATIONS/RMI/RServer.java",
+		"/D/Jdbc.java",
+		"/C/Users/Sourabh P/Downloads/Jdbc.java",
+		"/C/Users/Sourabh P/Desktop/CN ASSIGNMENTS/Cli.java",
+		"/C/Users/Sourabh P/Desktop/CN ASSIGNMENTS/Serv.java",
+		"/C/Users/Sourabh P/Desktop/x.cpp",
+		"/D/Java2/Server2.class",
+		"/C/Users/Sourabh P/Desktop/Display.java",
+		"/C/Users/Sourabh P/Downloads/DML.java",
+		"/C/Users/Sourabh P/Downloads/Display.rar",
+		"/D/Java2/Server1.java",
+		"/D/Java2/Client1.java",
+		"/D/Java2/Shared.java",
+		"/D/Java2/IPC.java",
+		"/D/Java2/Server4.java",
+		"/D/Java2/GUIServer4.java",
+		"/D/Java2/Server6.java",
+		"/D/Java2/Client6.java",
+		"/D/Java2/InsertCourse2.java",
+		"/D/Java2/Database1.java",
+		"/D/Java2/AccList1.class",
+		"/D/Java2/WSAMD.java",
+		"/D/.MY RESUME/WCE ACM CODE1",
+		"/D/Java2/WCE2018/InsertCourse2.java",
+		"/D/Java2/InsertCourse1.java",
+		"/D/Java2/demo.java",
+		"/D/Java2/Dhanno.java",
+		"/D/Java2/LifeCycle of a Thread",
+		"/D/Java2/Synchronisation",
+		"/D/Java2/Client4.java",
+		"/D/Java2/Client3.java",
+		"/D/Java2/Server3.java",
+		"/D/Java2/Thread6.java",
+		"/D/Java2/Multithreaded programming.txt",
+		"/D/Java2/Thread7.java",
+		"/D/Java2/ThreadPriority.java",
+		"/C/Users/Sourabh P/Desktop/ASSNJAVA/Test.java",
+		"/D/Java2/CThread4.java",
+		"/D/Java2/Thread4.java",
+		"/D/Java2/Thread3.java",
+		"/D/Java2/Thread2.java",
+		"/D/Java2/Thread1.java",
+		"/C/Users/Sourabh P/Desktop/ASSNJAVA/Student.java",
+		"/D/Java2/App10.java",
+		"/D/Java2/App8.java",
+		"/D/Java2/App7.java",
+		"/D/Java2/App6.java",
+		"/D/Java2/App5.java",
+		"/D/Java2/App4.java",
+		"/D/Java2/App3.java",
+		"/D/Java2/App2.java",
+		"/D/Java2/App1.java",
+		"/D/Java2/applet.java",
+		"/D/Java2/Editor.java",
+		"/D/Java2/MyPaint.java",
+		"/D/Java2/Image3.java",
+		"/D/Java2/Image4.java",
+		"/C/Users/Sourabh P/Downloads/MyShape.java",
+		"/D/Java2/MenuApp1.java",
+		"/C/Users/Sourabh P/Desktop/ASSNJAVA/ASSNJAVA1.java",
+		"/C/Users/Sourabh P/Desktop/ASSNJAVA1.java",
+		"/C/Users/Sourabh P/Desktop/ASSN 2 -1/WriteFile.java",
+		"/C/Users/Sourabh P/Desktop/ASSN 2 -1/CopyFile.java",
+		"/D/Java2/Wbyte.java",
+		"/D/Java2/Rbyte.java",
+		"/D/Java2/Image2.java",
+		"/D/Java2/Image1.java",
+		"/D/Java2/Mouse5.java",
+		"/D/Java2/Mouse4.java",
+		"/D/Java2/Mouse3.java",
+		"/D/Java2/Login.java",
+		"/C/Users/Sourabh P/Desktop/jju/ShapeArea.java",
+		"/C/Users/Sourabh P/Desktop/jju/Multiple_Interfaces.java",
+		"/C/Users/Sourabh P/Desktop/jju/interfaceSLI.java",
+		"/C/Users/Sourabh P/Desktop/jju/Inheritance_Of_Interfaces.java",
+		"/C/Users/Sourabh P/Desktop/jju/Grocery_Shop.java",
+		"/C/Users/Sourabh P/Desktop/jju/Cars.java",
+		"/C/Users/Sourabh P/Desktop/jju/Bounce.java",
+		"/C/Users/Sourabh P/Desktop/jju/AbstractSLI.java",
+		"/C/Users/Sourabh P/Desktop/jju/ShapeArea_Interface.java",
+		"/D/Java2/FRM3.java",
+		"/D/Java2/FRM4.java",
+		"/D/Java2/FRM5.java",
+		"/D/Java2/FRM6.java",
+		"/D/Java2/StuFrm.java",
+		"/C/Users/Sourabh P/Desktop/assign part 2/StaticNestedClass.java",
+		"/C/Users/Sourabh P/Desktop/assign part 2/NestedInterface.java",
+		"/C/Users/Sourabh P/Desktop/assign part 2/LocalInner.java",
+		"/C/Users/Sourabh P/Desktop/assign part 2/MemberInner.java",
+		"/C/Users/Sourabh P/Desktop/assign part 2/Anonymousdemo.java",
+		"/D/Java2/mypkg/Student.java",
+		"/D/Java2/RObj.java",
+		"/D/Java2/WObj.java",
+		"/D/Java2/Wchar.java",
+		"/D/Java2/RPData.java",
+		"/D/Java2/WPData.java",
+		"/D/Java2/CopyFile1.java",
+		"/D/Java2/Rchar.java",
+		"/D/Java2/CopyFile.java",
+		"/D/Java2/mypkg/NewStudent.java",
+		"/D/JAVA ASSIGNMENT 1/BankUse.java",
+		"/D/JAVA ASSIGNMENT 1/Statement7/CurrentAccount.java",
+		"/D/JAVA ASSIGNMENT 1/Statement7/SavingAccount.java",
+		"/D/JAVA ASSIGNMENT 1/Statement7/Bank.java",
+		"/D/JAVA ASSIGNMENT 1/Statement7/Account.java"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"PROMETHEUS",
+			"ANTMAN2",
+			"ANTMAN1",
+			"ASKABAN",
+			"DOCTORSTRANGE",
+			"MERADPWALAARRAY",
+			"DusriLength",
+			"PehliLength",
+			"DEKHMINIMUM",
+			"Langdalulla",
+			"plen",
+			"slen",
+			"dp",
+			"mini",
+			"LL",
+			"5000",
+			"5001",
+			"dhanp",
+			"i",
+			"cnt",
+			"min",
+			"LL",
+			"GRAPH",
+			"cc",
+			"tree",
+			"pc",
+			"ppc",
+			"save",
+			"parent",
+			"DFS",
+			"visit",
+			"flag",
+			"index",
+			"getDist",
+			"Data",
+			"comp",
+			"treeData",
+			"ll",
+			"maxS",
+			"cc",
+			"tc",
+			"save",
+			"tree",
+			"pc",
+			"ppc",
+			"getDist",
+			"treeData",
+			"comp",
+			"DFS",
+			"root",
+			"parent",
+			"node",
+			"visit",
+			"flag",
+			"maxS",
+			"pc",
+			"ppc",
+			"visit",
+			"flag",
+			"DFS",
+			"st",
+			"x2",
+			"x1",
+			"Data",
+			"tree",
+			"maxS",
+			"treeData",
+			"flag",
+			"ll",
+			"FIRAVCHANGLACH",
+			"dist",
+			"flg",
+			"false",
+			"s",
+			"tmpt",
+			"vis",
+			"dst",
+			"c",
+			"dfs",
+			"state",
+			"true",
+			"adj",
+			"ll",
+			"Client",
+			"Server",
+			"incr",
+			"n",
+			"temp_NEXT",
+			"void",
+			"MAX",
+			"coincide",
+			"DFS_getMaxNEXT",
+			"node",
+			"tree",
+			"lca",
+			"parent",
+			"height",
+			"ll",
+			"maxS",
+			"maxS_LogN",
+			"accdb",
+			"CThread7 a=new CThread7(\"A\",3);",
+			";\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "manage.sublime-project",
+	"replace":
+	{
+		"height": 68.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 188.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
